@@ -40,7 +40,7 @@
             scm:git:https://github.com/AuDigitalHealth/smd-b2b-client-java.git
         </developerConnection>
         <url>https://github.com/AuDigitalHealth/smd-b2b-client-java.git</url>
-        <tag>smd-b2b-client-1.6.1</tag>
+        <tag>smd-b2b-client-1.1.0</tag>
     </scm>
 
     <distributionManagement>
