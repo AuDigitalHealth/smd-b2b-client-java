@@ -89,9 +89,7 @@
         <dependency>
             <groupId>au.gov.nehta</groupId>
             <artifactId>smr-wsdl-tls</artifactId>
-            <version>1.0.3-SNAPSHOT</version>
-            <scope>system</scope>
-            <systemPath>${basedir}/src/main/resources/lib/smr-wsdl-tls-1.0.3-SNAPSHOT.jar</systemPath>
+            <version>1.0.3</version>
         </dependency>
         <dependency>
             <groupId>au.gov.nehta</groupId>
