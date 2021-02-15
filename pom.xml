@@ -70,7 +70,6 @@
             <artifactId>smi-common-utils</artifactId>
             <version>1.2.1</version>
         </dependency>
-        <!-- Initially for testing. Final location will be Maven repo -->
         <dependency>
             <groupId>au.gov.nehta</groupId>
             <artifactId>simd-wsdl-tls</artifactId>
@@ -94,16 +93,12 @@
         <dependency>
             <groupId>au.gov.nehta</groupId>
             <artifactId>trd-wsdl-tls</artifactId>
-            <version>1.0.3-SNAPSHOT</version>
-            <scope>system</scope>
-            <systemPath>${basedir}/src/main/resources/lib/trd-wsdl-tls-1.0.3-SNAPSHOT.jar</systemPath>
+            <version>1.0.3</version>
         </dependency>
         <dependency>
             <groupId>au.gov.nehta</groupId>
             <artifactId>trr-wsdl-tls</artifactId>
-            <version>1.0.3-SNAPSHOT</version>
-            <scope>system</scope>
-            <systemPath>${basedir}/src/main/resources/lib/trr-wsdl-tls-1.0.3-SNAPSHOT.jar</systemPath>
+            <version>1.0.3</version>
         </dependency>
         <!-- For test scope -->
         <dependency>
